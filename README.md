@@ -84,4 +84,5 @@ Pour toute question ou pour contribuer au projet, contactez-nous par e-mail à :
 - yamenigabin5@gmail.com
 - gracechame5@gmail.com
 - franckyoteu.62@gmail.com
+  
 ou ouvrez une issue sur ce dépôt pour discuter de vos idée.
