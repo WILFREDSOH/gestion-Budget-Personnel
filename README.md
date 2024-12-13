@@ -74,6 +74,7 @@ Version 2.0.0 : Intégration d'un module de prévisions financières basé sur l
 - **FOTSING SOH WILFRED**
 - **TIOTSOP YOTEU FRANCK Parfait**
 - **YAMENI GABIN**
+  
 ⚖️ Licence :
 Ce projet est sous la Licence MIT – consultez le fichier LICENSE pour plus d'informations.
 
