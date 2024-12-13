@@ -37,28 +37,24 @@ Si vous souhaitez contribuer à ce projet, suivez ces étapes :
 1. Cloner le projet :
 Clonez ce dépôt sur votre machine locale :
 
-bash
-Copier le code
-git clone https://github.com/ton-utilisateur/gestion-budget-personnel.git
+**git clone https://github.com/ton-utilisateur/gestion-budget-personnel.git**
+
 2. Créer une nouvelle branche pour votre fonctionnalité :
 Avant de commencer à travailler sur une nouvelle fonctionnalité ou correction de bug, créez une branche spécifique :
 
-bash
-Copier le code
-git checkout -b feature-nom-fonctionnalite
+**git checkout -b feature-nom-fonctionnalite**
+
 3. Faire des modifications et les committer :
 Ajoutez les fichiers modifiés, puis faites un commit avec un message clair et précis :
 
-bash
-Copier le code
-git add .
-git commit -m "Ajout de la fonctionnalité [nom de la fonctionnalité]"
+**git add .
+git commit -m "Ajout de la fonctionnalité [nom de la fonctionnalité]"**
+
 4. Pousser les modifications sur GitHub :
 Poussez vos modifications vers le dépôt distant sur la branche créée :
 
-bash
-Copier le code
-git push origin feature-nom-fonctionnalite
+**git push origin feature-nom-fonctionnalite**
+
 5. Créer une Pull Request (PR) :
 Une fois les modifications poussées, ouvrez une Pull Request pour que votre code soit examiné et intégré à la branche principale (main).
 
